@@ -22,4 +22,4 @@ Estudante de Ciência da Computação em busca de aprofundar conhecimentos em en
 
 💫Projeto HTML/CSS and JS, convite interativo para uma festa tema hallowen https://anagabrielealmeida.github.io/convite-interativo-hallowen/ 
 
-💫Projeto PYTHON sistema escolar  de cálculo de notas, faltas e resultado da média do aluno Ipê Amarelo. https://anagabrielealmeida.github.io/sistema-escolar-notasemedias/<img width="1584" height="672" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/0d7c92d4-9390-49a4-902a-7bf5234b8c88" 
+
